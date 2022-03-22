@@ -1,2 +1,6 @@
-# southAmerican-bombing
-Project utilizes various predictive models to analyze South American bombing attacks that are contained inside the Global Terrorism Database (GTD)
+SOUTH AMERICAN BOMBING ATTACKS
+
+This project has a focus on the issue of bombing attacks in the South American region. Bombing attacks are a popular method of attacks by small groups of foreign terrorist organizations, or FTOs. These FTOs are most active in countries inside the Andean region of South America, such as Columbia, Ecuador, Peru, Bolivia, Argentine, and Chile. The issue of terrorism in this area in particular is severe due to the countless people who have lost their lives. Since 1990, more than 9,000 people have died from terror attack inflicted injuries, as well as 8,000 more injured in these attacksThe faults of these attacks can be placed on three major FTOs, these include the Revolutionary Armed Forces of Columbia (FARQ), Shining Path (SL), and the National Liberation Army (ELN). 
+
+The analysis of these attacks was done using the Global Terrorism Database, or GTD. The GTD is the most comprehensive database of terrorist attacks in the world, the database is ran by the University of Maryland. It contains more than 200,000 attacks since 1970. The focus of my project is on the time period of 1990 to 2019 and of the 12 countries of the South American Region, excluding French Guinea and the Falkland Islands. The results of filtering both the time period and counties selected produced a dataset containing ___ instances. 
+
